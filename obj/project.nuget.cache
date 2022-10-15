@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/W7oeTA93j59k9763IXyDBK/fotAkAY9T13S8l1UXwJBSmVH0NhPaJT3YxYmwT5o5QaycHW2htez48nm8yG7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joe-p\\Dropbox\\Utility\\Projects\\code\\Game v1.4\\Game v1.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joe-p\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

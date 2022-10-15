@@ -1,0 +1,15 @@
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\bin\Debug\netcoreapp3.1\Game v1.4.exe
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\bin\Debug\netcoreapp3.1\Game v1.4.deps.json
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\bin\Debug\netcoreapp3.1\Game v1.4.runtimeconfig.json
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\bin\Debug\netcoreapp3.1\Game v1.4.runtimeconfig.dev.json
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\bin\Debug\netcoreapp3.1\Game v1.4.dll
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\bin\Debug\netcoreapp3.1\Game v1.4.pdb
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.csprojAssemblyReference.cache
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.AssemblyInfoInputs.cache
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.AssemblyInfo.cs
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.csproj.CoreCompileInputs.cache
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.dll
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.pdb
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.genruntimeconfig.cache
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+C:\Users\joe-p\Dropbox\Utility\Projects\code\Game v1.4\obj\Debug\netcoreapp3.1\Game v1.4.csproj.CopyComplete
